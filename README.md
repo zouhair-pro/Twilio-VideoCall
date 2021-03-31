@@ -19,8 +19,11 @@
 
   6- Return to the project folder and execute the following commandes: <br />
       - npx react-native run-ios --simulator="iPhone 11" <br />
-      - npx react-native run-ios --simulator="iPhone 11 Pro" <br />
+      - npx react-native run-android <br />
   
+  
+  
+  NB: Use the Android simulator to see the calling video simulation
   
 
 
