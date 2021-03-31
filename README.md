@@ -10,7 +10,7 @@
   
   3- copy <b> Server forwarded to public url </b> (somthing like that https://be02abc18fe5.ngrok.io). <br />
   https://ibb.co/LPL6tMM <br />
-  4- open project on xcode and navigate to app.js and edit the API_URL with the <b> Server forwarded to public url </b> <br />
+  4- open project on Visual Studio Code and navigate to app.js and edit the API_URL with the <b> Server forwarded to public url </b> <br />
   https://ibb.co/8DS1cnT  <br />
   
   5- return back to the project folder and execute the following commandes: <br />
