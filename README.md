@@ -18,8 +18,8 @@
       -  cd ios && pod install <br />
 
   6- Return to the project folder and execute the following commandes:
-      - npx react-native run-ios --simulator="iPhone 8" <br />
-      - npx react-native run-ios --simulator="iPhone 8 Plus" <br />
+      - npx react-native run-ios --simulator="iPhone 11" <br />
+      - npx react-native run-ios --simulator="iPhone 11 Pro" <br />
   
   
 
