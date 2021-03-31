@@ -3,7 +3,7 @@
 # Setting up the Project:
 
 ## Install the repository:
-  1- git clone: https://github.com/zouhair-pro/Twilio-ChatApp.git <br />
+  1- git clone: https://github.com/zouhair-pro/Twilio-VideoCall.git <br />
   2- navigate to the project folder => navigate to server folder and execute the following commandes:<br />
       - npm install <br />
       - npm start <br />
