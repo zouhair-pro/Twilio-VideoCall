@@ -46,7 +46,7 @@ const initialState = {
 
 
 //Replace the API_URL with your API_URL
-const API_URL = 'https://147a6a3057bc.ngrok.io'
+const API_URL = 'https://7c33eae07754.ngrok.io'
 
 
 
@@ -158,7 +158,7 @@ const HomeScreen = ({navigation}) => {
       <ScrollView contentContainerStyle={styles.container}>
         <View style={styles.form}>
           <View style={styles.formGroup}>
-            <Text style={styles.text}>User Name</Text>
+            <Text style={styles.text}>UserName</Text>
             <TextInput
               style={styles.textInput}
               autoCapitalize="none"
@@ -167,7 +167,7 @@ const HomeScreen = ({navigation}) => {
             />
           </View>
           <View style={styles.formGroup}>
-            <Text style={styles.text}>Room Name</Text>
+            <Text style={styles.text}>Please choose a Room Name</Text>
             <TextInput
               style={styles.textInput}
               autoCapitalize="none"
@@ -332,7 +332,7 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
   },
   formGroup: {
-    margin: 10,
+    margin: 15,
   },
   buttonContainer: {
     flexDirection: 'row',
@@ -340,7 +340,7 @@ const styles = StyleSheet.create({
   },
   button: {
     padding: 10,
-    backgroundColor: 'blue',
+    backgroundColor: 'green',
     borderRadius: 5,
   },
   buttonText: {
@@ -375,10 +375,10 @@ const styles = StyleSheet.create({
   },
   optionsContainer: {
     position: 'absolute',
-    paddingHorizontal: 10,
+    paddingHorizontal: 20,
     left: 0,
     right: 0,
-    bottom: 5,
+    bottom: 25,
     flexDirection: 'row',
     justifyContent: 'space-between',
   },
