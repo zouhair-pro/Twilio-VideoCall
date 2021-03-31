@@ -17,7 +17,7 @@
       -  npm install <br />
       -  cd ios && pod install <br />
 
-  6- Return to the project folder and execute the following commandes:
+  6- Return to the project folder and execute the following commandes: <br />
       - npx react-native run-ios --simulator="iPhone 11" <br />
       - npx react-native run-ios --simulator="iPhone 11 Pro" <br />
   
